@@ -11,7 +11,17 @@
     </a>
 </div>
 <h1>
-  hey there
+  Hi!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
+
+### :man_technologist: About Me :
+
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+- :zap: In my free time study GO.
+
+- :mailbox:How to reach me: [![telegram Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/Ilya3w)
