@@ -25,3 +25,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :zap: In my free time study GO.
 
 - :mailbox:How to reach me: [![telegram Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/Ilya3w)
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+</div>
